@@ -5,8 +5,9 @@ For more details of the strategy and code, please refer to "rendu_3_de_prog.pdf"
 
 ## Project description
 
-![Initial planet (ressources and bases)](/img/c1.jpg){:height="10%" width="10%"}
-![During execution](/img/c2.jpg){:height="30%" width="30%"}
+<img src="/img/c1.jpg" alt="Initial planet (resources and bases)" width="300" height="300">
+<img src="/img/c2.jpg" alt="During execution" width="300" height="300">
+
 
 Collaborated with a classmate on the Planet Donut project, focusing on the development and implementation of diverse algorithms for robot control in a simulated environment. These algorithms were designed for tasks including exploration, resource extraction, and communication network establishment.
 
